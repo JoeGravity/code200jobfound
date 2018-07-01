@@ -1,0 +1,25 @@
+{
+    "development": {
+        "username": "root",
+        "password": "root",
+        "database": "twohundredjobfound",
+        "host": "127.0.0.1",
+        "port": "8080",
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "",
+        "password": null, 
+        "database": "",
+        "host": "",
+        "dialect": "mysql"
+    },
+    "production": {
+        "host": "g3v9lgqa8h5nq05o.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+        "username": "kv0vynqgp54k08k0",
+        "password": "u25qfd64ye9qi1lw",
+        "port": "3306",
+        "database": "ic66ux6tphh03m4l",
+        "dialect": "mysql"
+    }
+}
