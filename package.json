@@ -1,8 +1,12 @@
 {
   "name": "200jobfound",
   "version": "1.0.0",
-  "description": "",
+  "description": "Job hunting app for Bootcamp",
   "main": "server.js",
+  "engines": {
+    "npm": "6.1.0",
+    "node": "8.11.1"
+  },
   "scripts": {
     "server": "node server.js",
     "client": "node scripts/start-client.js",
